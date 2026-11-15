@@ -1,3 +1,29 @@
+# agentic-design-patterns
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+The best Chinese edition of Google's book "Agentic Design Patterns", with online reading and PDF/EPUB downloads.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+谷歌《Agentic Design Patterns》新书的最佳中文版，附在线阅读与 PDF/EPUB 下载。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 ![封面图](images/cover.png)
 
 # Agentic Design Patterns（中文翻译项目）
